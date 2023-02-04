@@ -7,4 +7,5 @@ class LoginApiView(APIView):
 
     def post(self, request):
         pass
+    print("difffffff")
 
