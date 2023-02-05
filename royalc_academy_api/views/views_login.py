@@ -8,4 +8,5 @@ class LoginApiView(APIView):
     def post(self, request):
         pass
     print("Diwas BAsyal")
+    print('ricky pointing')
     print('My name is Khan.')
